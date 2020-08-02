@@ -821,6 +821,17 @@ A collection of awesome things regarding the React ecosystem.
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
 - [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
+---
+
+### Sponsors
+We are dedicating a lot of effort in this project in order to keep it alive and curated. 
+Thanks to our sponsors we are able to do that.
+
+
+
+
+
+[Become a sponsor via HTask](https://htask.com/become-a-sponsor?ref=awesome-react)
 
 ---
 
